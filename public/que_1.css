@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main {
+  font-family: "Satisfy", cursive;
+  width: 100%;
+  height: 100vh;
+  background-image: url("https://w0.peakpx.com/wallpaper/678/107/HD-wallpaper-cute-animation-couple-goals-couple-kiss-couple-love-cute-couple-kiss-kissing-love-love-2019-make-love-thumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  color: black;
+}
+
+.buttons {
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+}
+
+button {
+  background-color: transparent;
+  color: black;
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+  font-weight: bold;
+  font-family: "Satisfy", cursive;
+  outline: 0;
+  font-size: 20px;
+  transition: 0.5s ease;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: transparent;
+  backdrop-filter: blur(10px);
+  transition: 0.5s ease;
+}
+h1,
+h2 {
+  margin: 50px;
+  text-align: center;
+}
+
+span {
+  color: pink;
+}
